@@ -1,0 +1,62 @@
+[
+ {
+  "moduleId": "m-l4-01-bebop-scales",
+  "title": "비밥 스케일과 강박 정렬",
+  "durationSec": 1061.4859,
+  "version": 1,
+  "bgm": "Music: \"Modern Jazz Samba\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 88509397,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l4"
+ },
+ {
+  "moduleId": "m-l4-02-transcription",
+  "title": "채보: 귀로 훔치기",
+  "durationSec": 1112.6388,
+  "version": 1,
+  "bgm": "Music: \"Local Forecast\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 91833525,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l4"
+ },
+ {
+  "moduleId": "m-l4-03-motivic-development",
+  "title": "릭에서 언어로: 모티프 전개",
+  "durationSec": 1196.1339,
+  "version": 1,
+  "bgm": "Music: \"Mining by Moonlight\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 87918096,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l4"
+ },
+ {
+  "moduleId": "m-l4-04-articulation",
+  "title": "아티큘레이션과 프레이징",
+  "durationSec": 1043.4865,
+  "version": 1,
+  "bgm": "Music: \"Airport Lounge\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 80584584,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l4"
+ },
+ {
+  "moduleId": "m-l4-05-rhythmic-displacement",
+  "title": "리듬 변위",
+  "durationSec": 980.4047,
+  "version": 1,
+  "bgm": "Music: \"Jazz Brunch\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 73283850,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l4"
+ },
+ {
+  "moduleId": "m-l4-06-blues-language",
+  "title": "블루스 어법",
+  "durationSec": 1237.8371,
+  "version": 1,
+  "bgm": "Music: \"Lobby Time\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 92723436,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l4"
+ }
+]
